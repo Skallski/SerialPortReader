@@ -1,0 +1,17 @@
+{
+  "name": "com.skallu.serial.port.reader",
+  "version": "1.0.0",
+  "displayName": "Serial Port Reader",
+  "description": "Serial port reader and monitor tool for Unity.",
+  "unity": "2020.3",
+  "keywords": [
+    "serial",
+    "port",
+    "monitor"
+  ],
+  "author": {
+    "name": "Skallu",
+    "email": "kaminski.patryk@hotmail.com",
+    "url": "https://github.com/Skallu0711"
+  }
+}

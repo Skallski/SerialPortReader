@@ -1,0 +1,16 @@
+{
+    "name": "skallu.serial-port-monitor.editor",
+    "rootNamespace": "SerialPortMonitor.Editor",
+    "references": [
+        "GUID:a7a4d65d083bb5047bdc5487870a0e56"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

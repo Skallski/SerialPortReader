@@ -1,7 +1,6 @@
 ﻿using UnityEditor;
-using EditorGUILayout = UnityEditor.EditorGUILayout;
 
-namespace SerialPortMonitor.Editor
+namespace SerialPortReader.Editor
 {
     [CustomEditor(typeof(SerialPortReaderMonoBehaviour))]
     public class SerialPortReaderMonoBehaviourEditor : UnityEditor.Editor

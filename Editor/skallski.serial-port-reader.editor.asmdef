@@ -1,10 +1,12 @@
 {
-    "name": "skallu.serial-port-monitor.editor",
-    "rootNamespace": "SerialPortMonitor.Editor",
+    "name": "skallski.serial-port-reader.editor",
+    "rootNamespace": "SerialPortReader.Editor",
     "references": [
-        "GUID:a7a4d65d083bb5047bdc5487870a0e56"
+        "skallski.serial-port-reader"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

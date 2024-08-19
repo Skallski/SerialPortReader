@@ -1,6 +1,6 @@
 ﻿using System.IO.Ports;
 
-namespace SerialPortMonitor
+namespace SerialPortReader
 {
     public static class SerialPortUtils
     {

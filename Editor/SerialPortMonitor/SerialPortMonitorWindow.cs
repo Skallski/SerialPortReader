@@ -4,7 +4,7 @@ using System.IO.Ports;
 using UnityEditor;
 using UnityEngine;
 
-namespace SerialPortMonitor.Editor.SerialPortMonitor
+namespace SerialPortReader.Editor.SerialPortMonitor
 {
     public class SerialPortMonitorWindow : EditorWindow
     {

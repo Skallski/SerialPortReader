@@ -5,7 +5,7 @@ using System.IO.Ports;
 using System.Linq;
 using UnityEngine;
 
-namespace SerialPortMonitor
+namespace SerialPortReader
 {
     /// <summary>
     /// This class allows reading data from serial ports

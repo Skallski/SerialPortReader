@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace SerialPortMonitor
+namespace SerialPortReader
 {
     public class SerialPortReaderMonoBehaviour : MonoBehaviour
     {

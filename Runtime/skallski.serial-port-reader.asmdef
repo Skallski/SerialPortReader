@@ -1,8 +1,12 @@
 {
-    "name": "skallu.serial-port-monitor",
-    "rootNamespace": "SerialPortMonitor",
+    "name": "skallski.serial-port-reader",
+    "rootNamespace": "SerialPortReader",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

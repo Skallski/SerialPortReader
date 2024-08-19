@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SerialPortMonitor
+namespace SerialPortReader
 {
     public class SerialPortReaderException : Exception
     {

@@ -15,8 +15,7 @@
 </p>
 
 ### Introduction
-Serial port reader and monitor tool for Unity.\
-Whole package is under continuous development, so some things here may change in the future :)
+Serial port reader and monitor tool for Unity.
 
 ### Instalation
 This is an embedded Unity package. In order to install it, use package manager tool (Window -> Package Manager). <br>
